@@ -1,0 +1,3 @@
+JavaChessDrill
+==============
+Homework for my programming course. Requires some bug-fixing...
